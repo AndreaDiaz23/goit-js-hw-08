@@ -8,7 +8,7 @@ This project was created with Parcel. For familiarization and setting additional
    [Download and install](https://nodejs.org/en/) if needed.
 2. Clone this repository.
 3. Change the folder name from `parcel-project-template` to the name of your project.
-4. Create a new empty GitHub repository.
+4. Create a new empty GitHub repository..
 5. Open the project in VSCode, launch the terminal and link the project to the GitHub repository
    [by instructions](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
 6. Install the project's dependencies in the terminal with the `npm install` command.
